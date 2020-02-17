@@ -16,7 +16,7 @@
     "classnames": "^2.2.5",
     "contentful": "^5.0.5",
     "json-stringify-safe": "^5.0.1",
-    "marked": "^0.3.7",
+    "marked": "^0.3.18",
     "micro": "^9.0.2",
     "micro-http-router": "^1.2.1",
     "micro-post": "^1.0.0",
